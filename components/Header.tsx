@@ -1,6 +1,6 @@
+import { FC } from "react";
 import Image from "next/image";
 import logo from "@/app/assets/images/logo.png";
-import { FC } from "react";
 
 const Header: FC = () => {
   return (
